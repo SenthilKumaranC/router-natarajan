@@ -16,6 +16,7 @@ const Header = ()=>{
 
     return(
         <div className="Header">
+             Natarajan
             <button onClick={gotoProducts}>products</button>
             <button onClick={gotoContactUs}>Contact us</button>
         </div>
